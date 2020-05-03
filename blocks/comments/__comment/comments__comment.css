@@ -1,0 +1,16 @@
+.comments__comment{
+    
+    width:100%;
+    
+    
+    /*position: relative;*/
+    
+}
+@media screen and (max-width:768px) {
+    .comments__comment{
+        align-items: center;
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}

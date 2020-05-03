@@ -1,0 +1,22 @@
+.intro__main-text{
+max-width: 683px;
+min-height: 154px;
+font-family: Inter;
+font-style: normal; 
+font-size: 14px;
+line-height: 24px;
+margin:0;
+margin-bottom:24px;
+color: #FFFFFF;
+
+}
+
+
+@media screen and (max-width:375px){
+    .intro__main-text{
+        font-size: 16px;
+        line-height: 27px;
+        margin-bottom:32px;
+    }
+
+}

@@ -1,0 +1,34 @@
+.video__box{
+    
+    width: 100%;
+    
+    position: absolute;
+    
+    bottom: 30px;
+    
+    
+}
+@media screen and (max-width:1024px){
+    .video__box{
+       
+        bottom: 24px;
+    }
+}
+@media screen and (max-width:768px){
+    .video__box{
+        
+        bottom: 24px;
+    }
+}
+@media screen and (max-width:374px){
+    .video__box{
+        
+        bottom: 16px;
+    }
+}
+@media screen and (max-width:320px){
+    .video__box{
+        
+        bottom: 16px;
+    }
+}

@@ -1,0 +1,27 @@
+.video__item{
+    position: relative;
+    max-width: 767px;
+    width:calc(100%/2 - 9px);
+    /*height: 323px;*/
+
+}
+.video__item:hover{
+    opacity: 0.2;  
+}
+@media screen and (max-width:1024px){
+    .video__item{
+        width:calc(100%/2 - 8px);
+        
+        
+        
+    }
+}
+@media screen and (max-width:767px){
+    .video__item{
+       width:100%;
+       margin-top:8px;
+        
+        
+        
+    }
+}

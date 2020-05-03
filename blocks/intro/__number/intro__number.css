@@ -1,0 +1,11 @@
+.intro__number{
+    font-size: 13px;
+   font-weight: normal;
+line-height: 20px;
+}
+@media screen and (max-width:375px){
+    .intro__number{
+        font-size: 12px;
+        line-height: 19px;
+    }
+}

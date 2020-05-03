@@ -1,0 +1,17 @@
+.page__footer{
+    margin-top:160px;
+    margin-left:auto;
+    margin-right:auto;
+}
+@media screen and (max-width:967px){
+    .page__footer{
+        margin-top:102px;
+        
+    }
+}
+@media screen and (max-width:710px){
+    .page__footer{
+        margin-top:64px;
+        
+    }
+}
