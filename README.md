@@ -4,6 +4,6 @@
 
 Учебный проект в Яндекс.Практимуме - адаптивный сайт о путешествии по России, верстка по БЭМ
 
- https://slam235.github.io/traveling-in-russia/
+ https://shiryaev-dev.github.io/traveling-in-russia/
 
 
